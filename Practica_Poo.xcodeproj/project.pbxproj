@@ -16,6 +16,7 @@
 		C9A9C91F2A43750600F07B39 /* Practica_PooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A9C91E2A43750600F07B39 /* Practica_PooTests.swift */; };
 		C9A9C9292A43750600F07B39 /* Practica_PooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A9C9282A43750600F07B39 /* Practica_PooUITests.swift */; };
 		C9A9C92B2A43750600F07B39 /* Practica_PooUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A9C92A2A43750600F07B39 /* Practica_PooUITestsLaunchTests.swift */; };
+		C9A9C9382A4375ED00F07B39 /* Cuenta.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A9C9372A4375ED00F07B39 /* Cuenta.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C9A9C9242A43750600F07B39 /* Practica_PooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Practica_PooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9A9C9282A43750600F07B39 /* Practica_PooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practica_PooUITests.swift; sourceTree = "<group>"; };
 		C9A9C92A2A43750600F07B39 /* Practica_PooUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practica_PooUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C9A9C9372A4375ED00F07B39 /* Cuenta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cuenta.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C9A9C9072A43750300F07B39 /* AppDelegate.swift */,
 				C9A9C9092A43750300F07B39 /* SceneDelegate.swift */,
 				C9A9C90B2A43750300F07B39 /* ViewController.swift */,
+				C9A9C9372A4375ED00F07B39 /* Cuenta.swift */,
 				C9A9C90D2A43750300F07B39 /* Main.storyboard */,
 				C9A9C9102A43750500F07B39 /* Assets.xcassets */,
 				C9A9C9122A43750500F07B39 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9A9C9382A4375ED00F07B39 /* Cuenta.swift in Sources */,
 				C9A9C90C2A43750300F07B39 /* ViewController.swift in Sources */,
 				C9A9C9082A43750300F07B39 /* AppDelegate.swift in Sources */,
 				C9A9C90A2A43750300F07B39 /* SceneDelegate.swift in Sources */,
